@@ -109,7 +109,7 @@ window = tk.Tk()
 window.title("Anime Recommendation")
 
 # Set window posisi dan dimensi
-window.geometry("500x400")
+window.geometry("1000x800")
 window.configure(background='white')
 
 # Set background
